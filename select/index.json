@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "rainbow",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-02-14T00:31:47.835218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Over the Rainbow / What a Wonderful World",
+      "artist": "Robin Schulz feat. Alle Farben & Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Over_the_Rainbow___What_a_Wonderful_World_Robin_Schulz_feat._Alle_Farben_&_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chasin' That Neon Rainbow",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/04_Chasin'_That_Neon_Rainbow_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainbow",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/05_Rainbow_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rainbow At Midnight",
+      "artist": "Ernest Tubb",
+      "has_synced": false,
+      "path": "select/06_Rainbow_At_Midnight_Ernest_Tubb.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rainbow Stew - Live At Anaheim",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/07_Rainbow_Stew_-_Live_At_Anaheim_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over the Rainbow",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/08_Over_the_Rainbow_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over the Rainbow",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/09_Over_the_Rainbow_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over The Rainbow",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/10_Over_The_Rainbow_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over The Rainbow - Live",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/11_Over_The_Rainbow_-_Live_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over The Rainbow",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/12_Over_The_Rainbow_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "무지개 Rainbow",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/13_무지개_Rainbow_f(x).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "무지개 (Rainbow)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/14_무지개_(Rainbow)_f(x).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rainbow",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_rainbow_WANIMA.txt"
+    }
+  ]
+}
